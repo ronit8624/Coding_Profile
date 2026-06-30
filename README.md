@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ronit8624/Coding_Profile/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ronit8624/Coding_Profile/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/ronit8624/Coding_Profile/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/ronit8624/Coding_Profile/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ronit8624/Coding_Profile/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ronit8624/Coding_Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/ronit8624/Coding_Profile/tree/master/0198-house-robber) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ronit8624/Coding_Profile/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/ronit8624/Coding_Profile/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ronit8624/Coding_Profile/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/ronit8624/Coding_Profile/tree/master/0198-house-robber) |
 ## Stack
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ronit8624/Coding_Profile/tree/master/0070-climbing-stairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ronit8624/Coding_Profile/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
