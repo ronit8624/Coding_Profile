@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ronit8624/Coding_Profile/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ronit8624/Coding_Profile/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/ronit8624/Coding_Profile/tree/master/0523-continuous-subarray-sum) |
+| [0542-01-matrix](https://github.com/ronit8624/Coding_Profile/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ronit8624/Coding_Profile/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ronit8624/Coding_Profile/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/ronit8624/Coding_Profile/tree/master/0724-find-pivot-index) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/ronit8624/Coding_Profile/tree/master/0091-decode-ways) |
 | [0152-maximum-product-subarray](https://github.com/ronit8624/Coding_Profile/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ronit8624/Coding_Profile/tree/master/0198-house-robber) |
+| [0542-01-matrix](https://github.com/ronit8624/Coding_Profile/tree/master/0542-01-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -115,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ronit8624/Coding_Profile/tree/master/0062-unique-paths) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/ronit8624/Coding_Profile/tree/master/0542-01-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/ronit8624/Coding_Profile/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
