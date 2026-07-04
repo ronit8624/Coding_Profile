@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ronit8624/Coding_Profile/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ronit8624/Coding_Profile/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/ronit8624/Coding_Profile/tree/master/0075-sort-colors) |
+| [0120-triangle](https://github.com/ronit8624/Coding_Profile/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ronit8624/Coding_Profile/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/ronit8624/Coding_Profile/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ronit8624/Coding_Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ronit8624/Coding_Profile/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ronit8624/Coding_Profile/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/ronit8624/Coding_Profile/tree/master/0091-decode-ways) |
+| [0120-triangle](https://github.com/ronit8624/Coding_Profile/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ronit8624/Coding_Profile/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ronit8624/Coding_Profile/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/ronit8624/Coding_Profile/tree/master/0542-01-matrix) |
