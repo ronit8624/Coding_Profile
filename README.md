@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ronit8624/Coding_Profile/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ronit8624/Coding_Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ronit8624/Coding_Profile/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/ronit8624/Coding_Profile/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ronit8624/Coding_Profile/tree/master/0647-palindromic-substrings) |
 ## Binary Search
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ronit8624/Coding_Profile/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ronit8624/Coding_Profile/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ronit8624/Coding_Profile/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/ronit8624/Coding_Profile/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/ronit8624/Coding_Profile/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/ronit8624/Coding_Profile/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ronit8624/Coding_Profile/tree/master/1004-max-consecutive-ones-iii) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/ronit8624/Coding_Profile/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/ronit8624/Coding_Profile/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ronit8624/Coding_Profile/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/ronit8624/Coding_Profile/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/ronit8624/Coding_Profile/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ronit8624/Coding_Profile/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Math
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/ronit8624/Coding_Profile/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/ronit8624/Coding_Profile/tree/master/0125-valid-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ronit8624/Coding_Profile/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/ronit8624/Coding_Profile/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ronit8624/Coding_Profile/tree/master/0647-palindromic-substrings) |
 ## Combinatorics
 |  |
