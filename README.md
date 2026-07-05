@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ronit8624/Coding_Profile/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ronit8624/Coding_Profile/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ronit8624/Coding_Profile/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/ronit8624/Coding_Profile/tree/master/0042-trapping-rain-water) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ronit8624/Coding_Profile/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ronit8624/Coding_Profile/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ronit8624/Coding_Profile/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ronit8624/Coding_Profile/tree/master/0062-unique-paths) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ronit8624/Coding_Profile/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/ronit8624/Coding_Profile/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/ronit8624/Coding_Profile/tree/master/0125-valid-palindrome) |
 ## Combinatorics
