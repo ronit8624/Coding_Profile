@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ronit8624/Coding_Profile/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ronit8624/Coding_Profile/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ronit8624/Coding_Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/ronit8624/Coding_Profile/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ronit8624/Coding_Profile/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/ronit8624/Coding_Profile/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ronit8624/Coding_Profile/tree/master/0238-product-of-array-except-self) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ronit8624/Coding_Profile/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ronit8624/Coding_Profile/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ronit8624/Coding_Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/ronit8624/Coding_Profile/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ronit8624/Coding_Profile/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/ronit8624/Coding_Profile/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ronit8624/Coding_Profile/tree/master/0647-palindromic-substrings) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/ronit8624/Coding_Profile/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ronit8624/Coding_Profile/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/ronit8624/Coding_Profile/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/ronit8624/Coding_Profile/tree/master/0523-continuous-subarray-sum) |
 ## Memoization
 |  |
