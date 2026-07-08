@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/ronit8624/Coding_Profile/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/ronit8624/Coding_Profile/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/ronit8624/Coding_Profile/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/ronit8624/Coding_Profile/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ronit8624/Coding_Profile/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/ronit8624/Coding_Profile/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/ronit8624/Coding_Profile/tree/master/0994-rotting-oranges) |
@@ -218,17 +219,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/ronit8624/Coding_Profile/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/ronit8624/Coding_Profile/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/ronit8624/Coding_Profile/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ronit8624/Coding_Profile/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/ronit8624/Coding_Profile/tree/master/0797-all-paths-from-source-to-target) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ronit8624/Coding_Profile/tree/master/0133-clone-graph) |
+| [0547-number-of-provinces](https://github.com/ronit8624/Coding_Profile/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/ronit8624/Coding_Profile/tree/master/0797-all-paths-from-source-to-target) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ronit8624/Coding_Profile/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/ronit8624/Coding_Profile/tree/master/0547-number-of-provinces) |
 ## Backtracking
 |  |
 | ------- |
