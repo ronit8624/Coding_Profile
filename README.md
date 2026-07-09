@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ronit8624/Coding_Profile/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ronit8624/Coding_Profile/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ronit8624/Coding_Profile/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ronit8624/Coding_Profile/tree/master/0155-min-stack) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ronit8624/Coding_Profile/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ronit8624/Coding_Profile/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/ronit8624/Coding_Profile/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/ronit8624/Coding_Profile/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/ronit8624/Coding_Profile/tree/master/0125-valid-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ronit8624/Coding_Profile/tree/master/0438-find-all-anagrams-in-a-string) |
