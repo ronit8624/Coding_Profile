@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ronit8624/Coding_Profile/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0416-partition-equal-subset-sum](https://github.com/ronit8624/Coding_Profile/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/ronit8624/Coding_Profile/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/ronit8624/Coding_Profile/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ronit8624/Coding_Profile/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/ronit8624/Coding_Profile/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ronit8624/Coding_Profile/tree/master/0560-subarray-sum-equals-k) |
@@ -130,10 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ronit8624/Coding_Profile/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ronit8624/Coding_Profile/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ronit8624/Coding_Profile/tree/master/0155-min-stack) |
+| [0503-next-greater-element-ii](https://github.com/ronit8624/Coding_Profile/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ronit8624/Coding_Profile/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/ronit8624/Coding_Profile/tree/master/0503-next-greater-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
