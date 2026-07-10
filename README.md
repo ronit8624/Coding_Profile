@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/ronit8624/Coding_Profile/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ronit8624/Coding_Profile/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ronit8624/Coding_Profile/tree/master/0647-palindromic-substrings) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/ronit8624/Coding_Profile/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronit8624/Coding_Profile/tree/master/2785-sort-vowels-in-a-string) |
 ## Combinatorics
 |  |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ronit8624/Coding_Profile/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ronit8624/Coding_Profile/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ronit8624/Coding_Profile/tree/master/0785-is-graph-bipartite) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/ronit8624/Coding_Profile/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [2685-count-the-number-of-complete-components](https://github.com/ronit8624/Coding_Profile/tree/master/2685-count-the-number-of-complete-components) |
 ## Backtracking
 |  |
