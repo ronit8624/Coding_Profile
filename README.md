@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/ronit8624/Coding_Profile/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/ronit8624/Coding_Profile/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ronit8624/Coding_Profile/tree/master/1091-shortest-path-in-binary-matrix) |
+| [2685-count-the-number-of-complete-components](https://github.com/ronit8624/Coding_Profile/tree/master/2685-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/ronit8624/Coding_Profile/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ronit8624/Coding_Profile/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ronit8624/Coding_Profile/tree/master/0802-find-eventual-safe-states) |
+| [2685-count-the-number-of-complete-components](https://github.com/ronit8624/Coding_Profile/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/ronit8624/Coding_Profile/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ronit8624/Coding_Profile/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ronit8624/Coding_Profile/tree/master/0802-find-eventual-safe-states) |
+| [2685-count-the-number-of-complete-components](https://github.com/ronit8624/Coding_Profile/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ronit8624/Coding_Profile/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ronit8624/Coding_Profile/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ronit8624/Coding_Profile/tree/master/0785-is-graph-bipartite) |
+| [2685-count-the-number-of-complete-components](https://github.com/ronit8624/Coding_Profile/tree/master/2685-count-the-number-of-complete-components) |
 ## Backtracking
 |  |
 | ------- |
