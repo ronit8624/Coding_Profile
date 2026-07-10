@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ronit8624/Coding_Profile/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/ronit8624/Coding_Profile/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ronit8624/Coding_Profile/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/ronit8624/Coding_Profile/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/ronit8624/Coding_Profile/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ronit8624/Coding_Profile/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Matrix
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ronit8624/Coding_Profile/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/ronit8624/Coding_Profile/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ronit8624/Coding_Profile/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/ronit8624/Coding_Profile/tree/master/0802-find-eventual-safe-states) |
 ## Graph Theory
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ronit8624/Coding_Profile/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ronit8624/Coding_Profile/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ronit8624/Coding_Profile/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/ronit8624/Coding_Profile/tree/master/0802-find-eventual-safe-states) |
 ## Union-Find
 |  |
 | ------- |
@@ -294,4 +297,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/ronit8624/Coding_Profile/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ronit8624/Coding_Profile/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/ronit8624/Coding_Profile/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
