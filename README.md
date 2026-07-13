@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ronit8624/Coding_Profile/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ronit8624/Coding_Profile/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ronit8624/Coding_Profile/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0721-accounts-merge](https://github.com/ronit8624/Coding_Profile/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/ronit8624/Coding_Profile/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/ronit8624/Coding_Profile/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/ronit8624/Coding_Profile/tree/master/0739-daily-temperatures) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ronit8624/Coding_Profile/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ronit8624/Coding_Profile/tree/master/0075-sort-colors) |
+| [0721-accounts-merge](https://github.com/ronit8624/Coding_Profile/tree/master/0721-accounts-merge) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronit8624/Coding_Profile/tree/master/2785-sort-vowels-in-a-string) |
 ## Greedy
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/ronit8624/Coding_Profile/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ronit8624/Coding_Profile/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ronit8624/Coding_Profile/tree/master/0567-permutation-in-string) |
+| [0721-accounts-merge](https://github.com/ronit8624/Coding_Profile/tree/master/0721-accounts-merge) |
 | [0904-fruit-into-baskets](https://github.com/ronit8624/Coding_Profile/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ronit8624/Coding_Profile/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Math
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/ronit8624/Coding_Profile/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ronit8624/Coding_Profile/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ronit8624/Coding_Profile/tree/master/0647-palindromic-substrings) |
+| [0721-accounts-merge](https://github.com/ronit8624/Coding_Profile/tree/master/0721-accounts-merge) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/ronit8624/Coding_Profile/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronit8624/Coding_Profile/tree/master/2785-sort-vowels-in-a-string) |
 ## Combinatorics
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ronit8624/Coding_Profile/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ronit8624/Coding_Profile/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ronit8624/Coding_Profile/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/ronit8624/Coding_Profile/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ronit8624/Coding_Profile/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/ronit8624/Coding_Profile/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ronit8624/Coding_Profile/tree/master/0797-all-paths-from-source-to-target) |
@@ -267,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ronit8624/Coding_Profile/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ronit8624/Coding_Profile/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ronit8624/Coding_Profile/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/ronit8624/Coding_Profile/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ronit8624/Coding_Profile/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/ronit8624/Coding_Profile/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ronit8624/Coding_Profile/tree/master/0797-all-paths-from-source-to-target) |
@@ -292,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ronit8624/Coding_Profile/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ronit8624/Coding_Profile/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ronit8624/Coding_Profile/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/ronit8624/Coding_Profile/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/ronit8624/Coding_Profile/tree/master/0785-is-graph-bipartite) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/ronit8624/Coding_Profile/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ronit8624/Coding_Profile/tree/master/1584-min-cost-to-connect-all-points) |
