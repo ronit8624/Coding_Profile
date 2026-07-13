@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ronit8624/Coding_Profile/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ronit8624/Coding_Profile/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ronit8624/Coding_Profile/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ronit8624/Coding_Profile/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -346,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/ronit8624/Coding_Profile/tree/master/0735-asteroid-collision) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ronit8624/Coding_Profile/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
