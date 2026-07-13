@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ronit8624/Coding_Profile/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ronit8624/Coding_Profile/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ronit8624/Coding_Profile/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ronit8624/Coding_Profile/tree/master/1584-min-cost-to-connect-all-points) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ronit8624/Coding_Profile/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ronit8624/Coding_Profile/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Two Pointers
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/ronit8624/Coding_Profile/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ronit8624/Coding_Profile/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ronit8624/Coding_Profile/tree/master/0802-find-eventual-safe-states) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ronit8624/Coding_Profile/tree/master/1584-min-cost-to-connect-all-points) |
 | [2685-count-the-number-of-complete-components](https://github.com/ronit8624/Coding_Profile/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/ronit8624/Coding_Profile/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/ronit8624/Coding_Profile/tree/master/0785-is-graph-bipartite) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/ronit8624/Coding_Profile/tree/master/1061-lexicographically-smallest-equivalent-string) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ronit8624/Coding_Profile/tree/master/1584-min-cost-to-connect-all-points) |
 | [2685-count-the-number-of-complete-components](https://github.com/ronit8624/Coding_Profile/tree/master/2685-count-the-number-of-complete-components) |
 ## Backtracking
 |  |
@@ -316,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ronit8624/Coding_Profile/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ronit8624/Coding_Profile/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/ronit8624/Coding_Profile/tree/master/0802-find-eventual-safe-states) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ronit8624/Coding_Profile/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
