@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/ronit8624/Coding_Profile/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/ronit8624/Coding_Profile/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/ronit8624/Coding_Profile/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/ronit8624/Coding_Profile/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ronit8624/Coding_Profile/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/ronit8624/Coding_Profile/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/ronit8624/Coding_Profile/tree/master/0904-fruit-into-baskets) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ronit8624/Coding_Profile/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ronit8624/Coding_Profile/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/ronit8624/Coding_Profile/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/ronit8624/Coding_Profile/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ronit8624/Coding_Profile/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/ronit8624/Coding_Profile/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
@@ -337,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/ronit8624/Coding_Profile/tree/master/0901-online-stock-span) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/ronit8624/Coding_Profile/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
