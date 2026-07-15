@@ -4,44 +4,46 @@ private:
     long long mini;
 
 public:
-    MinStack() {}
+    MinStack() {
+        mini = LLONG_MAX;
+    }
 
-    void push(int value) {
+    void push(int val) {
         if(st.empty()) {
-            mini = value;
-            st.push(value);
-            return;
+            st.push(val);
+            mini = val;
         }
-
-        if(value >= mini) {
-            st.push(value);
+        else if(val < mini) {
+            long long newVal = 2LL * val - mini;
+            st.push(newVal);
+            mini = val;
         }
         else {
-            st.push(2LL * value - mini);
-            mini = value;
+            st.push(val);
         }
     }
 
     void pop() {
         if(st.empty()) return;
 
-        long long x = st.top();
+        if(st.top() < mini) {
+            long long val = st.top();
+            mini = 2LL * mini - val;
+        }
+
         st.pop();
 
-        if(x < mini) {
-            mini = 2LL * mini - x;
-        }
+        if(st.empty())
+            mini = LLONG_MAX;
     }
 
     int top() {
         if(st.empty()) return -1;
 
-        long long x = st.top();
+        if(st.top() < mini)
+            return mini;
 
-        if(x >= mini)
-            return x;
-
-        return mini;
+        return st.top();
     }
 
     int getMin() {
