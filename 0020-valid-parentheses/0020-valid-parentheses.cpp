@@ -3,27 +3,28 @@ public:
     bool isClosing(char ch) {
         return ch == ')' || ch == '}' || ch == ']';
     }
-
-    bool matched(char ch1, char ch2) {
-        if(ch1 == '(' && ch2 == ')') return true;
-        if(ch1 == '{' && ch2 == '}') return true;
-        if(ch1 == '[' && ch2 == ']') return true;
-        return false;
+    bool isMatched(char open, char close) {
+        return (open == '(' && close == ')') ||
+                (open == '{' && close == '}') ||
+                (open == '[' && close == ']');
     }
-
     bool isValid(string s) {
-        stack<char> st;
         int n = s.size();
+        stack<char> st;
 
-        for(int i = 0; i < n; i++) {
+        for(int i=0;i<n;i++) {
             if(isClosing(s[i])) {
                 if(st.empty()) return false;
+                else {
+                    char ch = st.top();
 
-                char c = st.top();
-                st.pop();
-
-                if(!matched(c, s[i]))
-                    return false;
+                    if(!isMatched(ch, s[i])) {
+                        return false;
+                    }
+                    else {
+                        st.pop();
+                    }
+                }
             }
             else {
                 st.push(s[i]);
