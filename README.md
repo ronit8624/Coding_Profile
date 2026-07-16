@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/ronit8624/Coding_Profile/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/ronit8624/Coding_Profile/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/ronit8624/Coding_Profile/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ronit8624/Coding_Profile/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ronit8624/Coding_Profile/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Stack
 |  |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ronit8624/Coding_Profile/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/ronit8624/Coding_Profile/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1143-longest-common-subsequence](https://github.com/ronit8624/Coding_Profile/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ronit8624/Coding_Profile/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1544-make-the-string-great](https://github.com/ronit8624/Coding_Profile/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ronit8624/Coding_Profile/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronit8624/Coding_Profile/tree/master/2785-sort-vowels-in-a-string) |
