@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ronit8624/Coding_Profile/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ronit8624/Coding_Profile/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/ronit8624/Coding_Profile/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/ronit8624/Coding_Profile/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/ronit8624/Coding_Profile/tree/master/0200-number-of-islands) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ronit8624/Coding_Profile/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ronit8624/Coding_Profile/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/ronit8624/Coding_Profile/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/ronit8624/Coding_Profile/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/ronit8624/Coding_Profile/tree/master/0200-number-of-islands) |
@@ -375,10 +377,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ronit8624/Coding_Profile/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ronit8624/Coding_Profile/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ronit8624/Coding_Profile/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ronit8624/Coding_Profile/tree/master/0101-symmetric-tree) |
 ## Design
 |  |
 | ------- |
