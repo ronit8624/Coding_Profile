@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ronit8624/Coding_Profile/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ronit8624/Coding_Profile/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ronit8624/Coding_Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/ronit8624/Coding_Profile/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ronit8624/Coding_Profile/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ronit8624/Coding_Profile/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ronit8624/Coding_Profile/tree/master/0200-number-of-islands) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ronit8624/Coding_Profile/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/ronit8624/Coding_Profile/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ronit8624/Coding_Profile/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ronit8624/Coding_Profile/tree/master/0169-majority-element) |
 | [0721-accounts-merge](https://github.com/ronit8624/Coding_Profile/tree/master/0721-accounts-merge) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronit8624/Coding_Profile/tree/master/2785-sort-vowels-in-a-string) |
 ## Greedy
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ronit8624/Coding_Profile/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0133-clone-graph](https://github.com/ronit8624/Coding_Profile/tree/master/0133-clone-graph) |
+| [0169-majority-element](https://github.com/ronit8624/Coding_Profile/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ronit8624/Coding_Profile/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/ronit8624/Coding_Profile/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ronit8624/Coding_Profile/tree/master/0560-subarray-sum-equals-k) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ronit8624/Coding_Profile/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ronit8624/Coding_Profile/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ronit8624/Coding_Profile/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ronit8624/Coding_Profile/tree/master/0918-maximum-sum-circular-subarray) |
 ## String
@@ -399,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ronit8624/Coding_Profile/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/ronit8624/Coding_Profile/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/ronit8624/Coding_Profile/tree/master/0509-fibonacci-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ronit8624/Coding_Profile/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
