@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ronit8624/Coding_Profile/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ronit8624/Coding_Profile/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ronit8624/Coding_Profile/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ronit8624/Coding_Profile/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ronit8624/Coding_Profile/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ronit8624/Coding_Profile/tree/master/0053-maximum-subarray) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ronit8624/Coding_Profile/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ronit8624/Coding_Profile/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ronit8624/Coding_Profile/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ronit8624/Coding_Profile/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ronit8624/Coding_Profile/tree/master/0155-min-stack) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ronit8624/Coding_Profile/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/ronit8624/Coding_Profile/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ronit8624/Coding_Profile/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ronit8624/Coding_Profile/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/ronit8624/Coding_Profile/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ronit8624/Coding_Profile/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/ronit8624/Coding_Profile/tree/master/0097-interleaving-string) |
