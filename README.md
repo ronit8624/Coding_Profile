@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ronit8624/Coding_Profile/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ronit8624/Coding_Profile/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ronit8624/Coding_Profile/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/ronit8624/Coding_Profile/tree/master/0402-remove-k-digits) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ronit8624/Coding_Profile/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ronit8624/Coding_Profile/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/ronit8624/Coding_Profile/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/ronit8624/Coding_Profile/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/ronit8624/Coding_Profile/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/ronit8624/Coding_Profile/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/ronit8624/Coding_Profile/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/ronit8624/Coding_Profile/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ronit8624/Coding_Profile/tree/master/0739-daily-temperatures) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ronit8624/Coding_Profile/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/ronit8624/Coding_Profile/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/ronit8624/Coding_Profile/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ronit8624/Coding_Profile/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/ronit8624/Coding_Profile/tree/master/0901-online-stock-span) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ronit8624/Coding_Profile/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/ronit8624/Coding_Profile/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/ronit8624/Coding_Profile/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/ronit8624/Coding_Profile/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ronit8624/Coding_Profile/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ronit8624/Coding_Profile/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/ronit8624/Coding_Profile/tree/master/0516-longest-palindromic-subsequence) |
