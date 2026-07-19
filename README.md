@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ronit8624/Coding_Profile/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ronit8624/Coding_Profile/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ronit8624/Coding_Profile/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ronit8624/Coding_Profile/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/ronit8624/Coding_Profile/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ronit8624/Coding_Profile/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ronit8624/Coding_Profile/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ronit8624/Coding_Profile/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/ronit8624/Coding_Profile/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/ronit8624/Coding_Profile/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/ronit8624/Coding_Profile/tree/master/0797-all-paths-from-source-to-target) |
 ## Tree
@@ -456,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ronit8624/Coding_Profile/tree/master/0347-top-k-frequent-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ronit8624/Coding_Profile/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
