@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/ronit8624/Coding_Profile/tree/master/1584-min-cost-to-connect-all-points) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ronit8624/Coding_Profile/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ronit8624/Coding_Profile/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ronit8624/Coding_Profile/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/ronit8624/Coding_Profile/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ronit8624/Coding_Profile/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ronit8624/Coding_Profile/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ronit8624/Coding_Profile/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ronit8624/Coding_Profile/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/ronit8624/Coding_Profile/tree/master/0721-accounts-merge) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/ronit8624/Coding_Profile/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ronit8624/Coding_Profile/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronit8624/Coding_Profile/tree/master/2785-sort-vowels-in-a-string) |
 ## Greedy
 |  |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ronit8624/Coding_Profile/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ronit8624/Coding_Profile/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ronit8624/Coding_Profile/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ronit8624/Coding_Profile/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/ronit8624/Coding_Profile/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ronit8624/Coding_Profile/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ronit8624/Coding_Profile/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ronit8624/Coding_Profile/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Stack
 |  |
 | ------- |
