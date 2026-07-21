@@ -1,39 +1,29 @@
 class Solution {
 public:
-    bool isPalindrome(string& s, int i, int j, vector<vector<int>>& dp) {
-        if(i >= j) return true;
-        if(dp[i][j] != -1) return dp[i][j];
-
-        if(s[i] == s[j]) {
-            return dp[i][j] = isPalindrome(s, i+1, j-1, dp);
+    void expand(string& s, int l, int r, int& start, int& end) {
+        while(l >= 0 && r < s.size() && s[l] == s[r]) {
+            l--;
+            r++;
         }
 
-        return dp[i][j] = false;
+        l++;
+        r--;
+
+        if(r - l > end - start) {
+            start = l;
+            end = r;
+        }
     }
 
     string longestPalindrome(string s) {
         int n = s.size();
-        vector<vector<bool>> dp(n+1, vector<bool>(n+1, false));
+        int start = 0, end = 0;
 
-        for(int i=0;i<n;i++) dp[i][i] = true;
-        for(int i=1;i<n;i++) dp[i][i-1] = true;
-        
-        int maxLen = 1;
-        int start = 0;
-
-        for(int i=n-2;i>=0;i--) {
-            for(int j=i+1;j<n;j++) {
-                if(s[i] == s[j]) dp[i][j] = dp[i+1][j-1];
-                else dp[i][j] = false;
-
-                if(dp[i][j] && j-i+1 > maxLen) {
-                    maxLen = j-i+1;
-                    start = i;
-                }
-            }
+        for(int i=0;i<n;i++) {
+            expand(s, i, i, start, end);
+            expand(s, i, i+1, start, end);
         }
 
-        return s.substr(start, maxLen);
+        return s.substr(start, end - start + 1);
     }
 };
-
