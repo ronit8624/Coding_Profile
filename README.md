@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ronit8624/Coding_Profile/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ronit8624/Coding_Profile/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ronit8624/Coding_Profile/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2708-maximum-strength-of-a-group](https://github.com/ronit8624/Coding_Profile/tree/master/2708-maximum-strength-of-a-group) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/ronit8624/Coding_Profile/tree/master/0767-reorganize-string) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/ronit8624/Coding_Profile/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ronit8624/Coding_Profile/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2708-maximum-strength-of-a-group](https://github.com/ronit8624/Coding_Profile/tree/master/2708-maximum-strength-of-a-group) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronit8624/Coding_Profile/tree/master/2785-sort-vowels-in-a-string) |
 ## Greedy
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ronit8624/Coding_Profile/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ronit8624/Coding_Profile/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ronit8624/Coding_Profile/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2708-maximum-strength-of-a-group](https://github.com/ronit8624/Coding_Profile/tree/master/2708-maximum-strength-of-a-group) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ronit8624/Coding_Profile/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ronit8624/Coding_Profile/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ronit8624/Coding_Profile/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2708-maximum-strength-of-a-group](https://github.com/ronit8624/Coding_Profile/tree/master/2708-maximum-strength-of-a-group) |
 ## Stack
 |  |
 | ------- |
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ronit8624/Coding_Profile/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/ronit8624/Coding_Profile/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/ronit8624/Coding_Profile/tree/master/0797-all-paths-from-source-to-target) |
+| [2708-maximum-strength-of-a-group](https://github.com/ronit8624/Coding_Profile/tree/master/2708-maximum-strength-of-a-group) |
 ## Tree
 |  |
 | ------- |
@@ -494,4 +499,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ronit8624/Coding_Profile/tree/master/0078-subsets) |
+| [2708-maximum-strength-of-a-group](https://github.com/ronit8624/Coding_Profile/tree/master/2708-maximum-strength-of-a-group) |
+## Enumeration
+|  |
+| ------- |
+| [2708-maximum-strength-of-a-group](https://github.com/ronit8624/Coding_Profile/tree/master/2708-maximum-strength-of-a-group) |
 <!---LeetCode Topics End-->
