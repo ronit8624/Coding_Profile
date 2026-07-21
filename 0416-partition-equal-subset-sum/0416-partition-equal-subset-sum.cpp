@@ -1,45 +1,44 @@
 class Solution {
-public:
-    bool isSubsetSum(vector<int> arr, int target) {
+private:
+    bool isSubsetSum(vector<int>arr, int target){
         int n = arr.size();
-        vector<bool> prev(target+1, false);
-        vector<bool> curr(target+1, false);
-        prev[0] = curr[0] = true;
+        vector<vector<bool>> dp(n+1, vector<bool>(target+1, false));
 
-        if(target >= arr[0]) {
-            prev[arr[0]] = true;
+        for(int tar=0; tar<=target; tar++) {
+            if(tar == 0) dp[0][tar] = true;
+            else dp[0][tar] = (tar == arr[0]);
         }
 
         for(int ind = 1; ind < n; ind++) {
-            for(int i = 1; i <= target; i++) {
-                bool not_take = prev[i];
+            for(int tar = 0; tar <= target; tar++) {
+                bool notTake = dp[ind - 1][tar];
+                bool take = 0;
 
-                bool take = false;
-                if(i >= arr[ind]) {
-                    take = prev[i - arr[ind]];
+                if(tar >= arr[ind]) {
+                    take = dp[ind - 1][tar - arr[ind]];
                 }
 
-                curr[i] = take || not_take;
+                dp[ind][tar] = take || notTake;
             }
-
-            prev = curr;
         }
 
-        return prev[target];
+        return dp[n-1][target];
     }
-    
+
+public:
     bool canPartition(vector<int>& nums) {
         int n = nums.size();
-        int totalSum = 0;
+        int sum = 0;
 
-        for(int i=0;i<n;i++) {
-            totalSum += nums[i];
+        for(int ind = 0; ind < n; ind++) {
+            sum += nums[ind];
         }
 
-        if(totalSum % 2 != 0) 
+        if(sum % 2 != 0) {
             return false;
+        }
         else {
-            int k = totalSum / 2;
+            int k = sum / 2;
             return isSubsetSum(nums, k);
         }
     }
