@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ronit8624/Coding_Profile/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ronit8624/Coding_Profile/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/ronit8624/Coding_Profile/tree/master/0721-accounts-merge) |
+| [0767-reorganize-string](https://github.com/ronit8624/Coding_Profile/tree/master/0767-reorganize-string) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/ronit8624/Coding_Profile/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ronit8624/Coding_Profile/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronit8624/Coding_Profile/tree/master/2785-sort-vowels-in-a-string) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/ronit8624/Coding_Profile/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/ronit8624/Coding_Profile/tree/master/0402-remove-k-digits) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ronit8624/Coding_Profile/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0767-reorganize-string](https://github.com/ronit8624/Coding_Profile/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ronit8624/Coding_Profile/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ronit8624/Coding_Profile/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ronit8624/Coding_Profile/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ronit8624/Coding_Profile/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ronit8624/Coding_Profile/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/ronit8624/Coding_Profile/tree/master/0721-accounts-merge) |
+| [0767-reorganize-string](https://github.com/ronit8624/Coding_Profile/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/ronit8624/Coding_Profile/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ronit8624/Coding_Profile/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Math
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/ronit8624/Coding_Profile/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/ronit8624/Coding_Profile/tree/master/0647-palindromic-substrings) |
 | [0721-accounts-merge](https://github.com/ronit8624/Coding_Profile/tree/master/0721-accounts-merge) |
+| [0767-reorganize-string](https://github.com/ronit8624/Coding_Profile/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/ronit8624/Coding_Profile/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/ronit8624/Coding_Profile/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ronit8624/Coding_Profile/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -463,11 +467,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ronit8624/Coding_Profile/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ronit8624/Coding_Profile/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ronit8624/Coding_Profile/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/ronit8624/Coding_Profile/tree/master/0767-reorganize-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ronit8624/Coding_Profile/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ronit8624/Coding_Profile/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/ronit8624/Coding_Profile/tree/master/0767-reorganize-string) |
 ## Bucket Sort
 |  |
 | ------- |
