@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ronit8624/Coding_Profile/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/ronit8624/Coding_Profile/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ronit8624/Coding_Profile/tree/master/0647-palindromic-substrings) |
+| [0763-partition-labels](https://github.com/ronit8624/Coding_Profile/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/ronit8624/Coding_Profile/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/ronit8624/Coding_Profile/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/ronit8624/Coding_Profile/tree/master/0402-remove-k-digits) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ronit8624/Coding_Profile/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0763-partition-labels](https://github.com/ronit8624/Coding_Profile/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ronit8624/Coding_Profile/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ronit8624/Coding_Profile/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ronit8624/Coding_Profile/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ronit8624/Coding_Profile/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ronit8624/Coding_Profile/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/ronit8624/Coding_Profile/tree/master/0721-accounts-merge) |
+| [0763-partition-labels](https://github.com/ronit8624/Coding_Profile/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ronit8624/Coding_Profile/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/ronit8624/Coding_Profile/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ronit8624/Coding_Profile/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/ronit8624/Coding_Profile/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/ronit8624/Coding_Profile/tree/master/0647-palindromic-substrings) |
 | [0721-accounts-merge](https://github.com/ronit8624/Coding_Profile/tree/master/0721-accounts-merge) |
+| [0763-partition-labels](https://github.com/ronit8624/Coding_Profile/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ronit8624/Coding_Profile/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/ronit8624/Coding_Profile/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/ronit8624/Coding_Profile/tree/master/0856-score-of-parentheses) |
