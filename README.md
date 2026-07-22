@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ronit8624/Coding_Profile/tree/master/0739-daily-temperatures) |
 | [0764-largest-plus-sign](https://github.com/ronit8624/Coding_Profile/tree/master/0764-largest-plus-sign) |
 | [0875-koko-eating-bananas](https://github.com/ronit8624/Coding_Profile/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/ronit8624/Coding_Profile/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/ronit8624/Coding_Profile/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ronit8624/Coding_Profile/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/ronit8624/Coding_Profile/tree/master/0931-minimum-falling-path-sum) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/ronit8624/Coding_Profile/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ronit8624/Coding_Profile/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0764-largest-plus-sign](https://github.com/ronit8624/Coding_Profile/tree/master/0764-largest-plus-sign) |
+| [0877-stone-game](https://github.com/ronit8624/Coding_Profile/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ronit8624/Coding_Profile/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/ronit8624/Coding_Profile/tree/master/0931-minimum-falling-path-sum) |
 | [1092-shortest-common-supersequence](https://github.com/ronit8624/Coding_Profile/tree/master/1092-shortest-common-supersequence) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/ronit8624/Coding_Profile/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/ronit8624/Coding_Profile/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/ronit8624/Coding_Profile/tree/master/0523-continuous-subarray-sum) |
+| [0877-stone-game](https://github.com/ronit8624/Coding_Profile/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -513,4 +516,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2708-maximum-strength-of-a-group](https://github.com/ronit8624/Coding_Profile/tree/master/2708-maximum-strength-of-a-group) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ronit8624/Coding_Profile/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
