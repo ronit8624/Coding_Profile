@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/ronit8624/Coding_Profile/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ronit8624/Coding_Profile/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ronit8624/Coding_Profile/tree/master/1971-find-if-path-exists-in-graph) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ronit8624/Coding_Profile/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2685-count-the-number-of-complete-components](https://github.com/ronit8624/Coding_Profile/tree/master/2685-count-the-number-of-complete-components) |
 ## Matrix
 |  |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/ronit8624/Coding_Profile/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/ronit8624/Coding_Profile/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ronit8624/Coding_Profile/tree/master/0543-diameter-of-binary-tree) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ronit8624/Coding_Profile/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
 |  |
 | ------- |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/ronit8624/Coding_Profile/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/ronit8624/Coding_Profile/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ronit8624/Coding_Profile/tree/master/0543-diameter-of-binary-tree) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ronit8624/Coding_Profile/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Design
 |  |
 | ------- |
