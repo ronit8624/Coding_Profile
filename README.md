@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ronit8624/Coding_Profile/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ronit8624/Coding_Profile/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/ronit8624/Coding_Profile/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/ronit8624/Coding_Profile/tree/master/0343-integer-break) |
 | [0413-arithmetic-slices](https://github.com/ronit8624/Coding_Profile/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/ronit8624/Coding_Profile/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ronit8624/Coding_Profile/tree/master/0494-target-sum) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ronit8624/Coding_Profile/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ronit8624/Coding_Profile/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/ronit8624/Coding_Profile/tree/master/0227-basic-calculator-ii) |
+| [0343-integer-break](https://github.com/ronit8624/Coding_Profile/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/ronit8624/Coding_Profile/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/ronit8624/Coding_Profile/tree/master/0523-continuous-subarray-sum) |
 ## Memoization
