@@ -2,19 +2,19 @@ class Solution {
 public:
     bool checkSubarraySum(vector<int>& nums, int k) {
         int n = nums.size();
-        unordered_map<int, int> mpp;
-        mpp[0] = -1;
-        int prefixSum = 0;
+        unordered_map<int, int> modMap;
+        int sum = 0;
+        modMap[0] = -1;
 
         for(int i=0;i<n;i++) {
-            prefixSum += nums[i];
-            int requiredSum = prefixSum % k;
+            sum += nums[i];
+            int rem = sum % k;
 
-            if(mpp.find(requiredSum) != mpp.end()) {
-                if(i - mpp[requiredSum] >= 2) return true;
+            if(modMap.find(rem) != modMap.end()) {
+                if(i - modMap[rem] >= 2) return true;
             }
             else {
-                mpp[requiredSum] = i;
+                modMap[rem] = i;
             }
         }
 
