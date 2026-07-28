@@ -9,10 +9,10 @@ public:
             ans[i] = ans[i-1] * nums[i-1];
         }
 
-        int rightProduct = 1;
+        int rp = 1;
         for(int i=n-1;i>=0;i--) {
-            ans[i] *= rightProduct;
-            rightProduct *= nums[i];
+            ans[i] *= rp;
+            rp *= nums[i];
         }
 
         return ans;
