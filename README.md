@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/ronit8624/Coding_Profile/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/ronit8624/Coding_Profile/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ronit8624/Coding_Profile/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/ronit8624/Coding_Profile/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/ronit8624/Coding_Profile/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/ronit8624/Coding_Profile/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ronit8624/Coding_Profile/tree/master/0733-flood-fill) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/ronit8624/Coding_Profile/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/ronit8624/Coding_Profile/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/ronit8624/Coding_Profile/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ronit8624/Coding_Profile/tree/master/0572-subtree-of-another-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ronit8624/Coding_Profile/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
 |  |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/ronit8624/Coding_Profile/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/ronit8624/Coding_Profile/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/ronit8624/Coding_Profile/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ronit8624/Coding_Profile/tree/master/0572-subtree-of-another-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ronit8624/Coding_Profile/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Design
 |  |
@@ -580,4 +583,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ronit8624/Coding_Profile/tree/master/0787-cheapest-flights-within-k-stops) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/ronit8624/Coding_Profile/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/ronit8624/Coding_Profile/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
