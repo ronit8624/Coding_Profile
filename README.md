@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ronit8624/Coding_Profile/tree/master/0347-top-k-frequent-elements) |
 | [0413-arithmetic-slices](https://github.com/ronit8624/Coding_Profile/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/ronit8624/Coding_Profile/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ronit8624/Coding_Profile/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/ronit8624/Coding_Profile/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/ronit8624/Coding_Profile/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/ronit8624/Coding_Profile/tree/master/0503-next-greater-element-ii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ronit8624/Coding_Profile/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ronit8624/Coding_Profile/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ronit8624/Coding_Profile/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/ronit8624/Coding_Profile/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/ronit8624/Coding_Profile/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/ronit8624/Coding_Profile/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/ronit8624/Coding_Profile/tree/master/0767-reorganize-string) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/ronit8624/Coding_Profile/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/ronit8624/Coding_Profile/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/ronit8624/Coding_Profile/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/ronit8624/Coding_Profile/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ronit8624/Coding_Profile/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/ronit8624/Coding_Profile/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ronit8624/Coding_Profile/tree/master/0767-reorganize-string) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/ronit8624/Coding_Profile/tree/master/0343-integer-break) |
 | [0413-arithmetic-slices](https://github.com/ronit8624/Coding_Profile/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/ronit8624/Coding_Profile/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ronit8624/Coding_Profile/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/ronit8624/Coding_Profile/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ronit8624/Coding_Profile/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/ronit8624/Coding_Profile/tree/master/0516-longest-palindromic-subsequence) |
