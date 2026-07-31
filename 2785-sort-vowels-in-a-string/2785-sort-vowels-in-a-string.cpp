@@ -1,13 +1,14 @@
 class Solution {
-public:
+private:
     bool isVowel(char s) {
         return s == 'a' || s == 'e' || s == 'i' || s == 'o' || s == 'u' ||
                s == 'A' || s == 'E' || s == 'I' || s == 'O' || s == 'U';
     }
+public:
     string sortVowels(string s) {
         int n = s.size();
-
         vector<char> vowels;
+
         for(int i=0;i<n;i++) {
             if(isVowel(s[i])) {
                 vowels.push_back(s[i]);
