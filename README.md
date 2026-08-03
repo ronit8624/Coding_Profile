@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/ronit8624/Coding_Profile/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/ronit8624/Coding_Profile/tree/master/1631-path-with-minimum-effort) |
 | [1696-jump-game-vi](https://github.com/ronit8624/Coding_Profile/tree/master/1696-jump-game-vi) |
+| [1710-maximum-units-on-a-truck](https://github.com/ronit8624/Coding_Profile/tree/master/1710-maximum-units-on-a-truck) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ronit8624/Coding_Profile/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ronit8624/Coding_Profile/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ronit8624/Coding_Profile/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/ronit8624/Coding_Profile/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1338-reduce-array-size-to-the-half](https://github.com/ronit8624/Coding_Profile/tree/master/1338-reduce-array-size-to-the-half) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ronit8624/Coding_Profile/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1710-maximum-units-on-a-truck](https://github.com/ronit8624/Coding_Profile/tree/master/1710-maximum-units-on-a-truck) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ronit8624/Coding_Profile/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2708-maximum-strength-of-a-group](https://github.com/ronit8624/Coding_Profile/tree/master/2708-maximum-strength-of-a-group) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronit8624/Coding_Profile/tree/master/2785-sort-vowels-in-a-string) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ronit8624/Coding_Profile/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ronit8624/Coding_Profile/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1338-reduce-array-size-to-the-half](https://github.com/ronit8624/Coding_Profile/tree/master/1338-reduce-array-size-to-the-half) |
+| [1710-maximum-units-on-a-truck](https://github.com/ronit8624/Coding_Profile/tree/master/1710-maximum-units-on-a-truck) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ronit8624/Coding_Profile/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2708-maximum-strength-of-a-group](https://github.com/ronit8624/Coding_Profile/tree/master/2708-maximum-strength-of-a-group) |
 ## Dynamic Programming
