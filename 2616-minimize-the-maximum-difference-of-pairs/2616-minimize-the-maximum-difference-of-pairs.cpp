@@ -1,22 +1,18 @@
 class Solution {
 public:
-    bool isValid(vector<int>& arr, int mid, int p, int n) {
-        int i=0;
-        int cntPairs = 0;
+    bool isValid(int mid, vector<int>& nums, int p) {
+        int i = 0, cnt = 0;
 
-        while(i < n-1) {
-            if(abs(arr[i] - arr[i+1]) <= mid) {
-                cntPairs++;
+        while(i < nums.size() - 1) {
+            if(abs(nums[i] - nums[i + 1]) <= mid) {
+                cnt++;
                 i += 2;
             }
-            else {
-                i++;
-            }
+            else i++;
         }
 
-        return cntPairs >= p;
+        return cnt >= p;
     }
-
     int minimizeMax(vector<int>& nums, int p) {
         sort(nums.begin(), nums.end());
         int n = nums.size();
@@ -26,7 +22,7 @@ public:
         while(low <= high) {
             int mid = low + (high - low) / 2;
 
-            if(isValid(nums, mid, p, n)) {
+            if(isValid(mid, nums, p)) {
                 ans = mid;
                 high = mid - 1;
             }
