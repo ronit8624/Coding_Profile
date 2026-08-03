@@ -1,46 +1,41 @@
 class Solution {
 public:
-    using P = pair<int, pair<int, int>>;
-
-    bool isValid(int row, int col, int n) {
-        return row >= 0 && row < n && col >= 0 && col < n;
+    bool isValid(int i, int j, int n) {
+        return i >= 0 && i < n && j >= 0 && j < n;
     }
 
     int shortestPathBinaryMatrix(vector<vector<int>>& grid) {
         int n = grid.size();
-        if(grid[0][0] == 1 || grid[n-1][n-1] == 1) return -1;
+
+        if(grid[0][0] == 1 || grid[n - 1][n - 1] == 1) return -1;
 
         vector<vector<bool>> vis(n, vector<bool>(n, false));
+        queue<pair<int, pair<int, int>>> q;
+
+        q.push({1, {0, 0}});
         vis[0][0] = true;
 
-        priority_queue<P, vector<P>, greater<P>> pq;
-        pq.push({1, {0, 0}});
-
-        while(!pq.empty()) {
-            auto cell = pq.top();
-            int count = cell.first;
-
+        while(!q.empty()) {
+            auto cell = q.front(); q.pop();
+            int cnt = cell.first;
             int row = cell.second.first;
             int col = cell.second.second;
 
-            pq.pop();
-
-            if(row == n-1 && col == n-1) {
-                return count;
-            }
+            if(row == n - 1 && col == n - 1) return cnt;
 
             for(int delRow = -1; delRow <= 1; delRow++) {
                 for(int delCol = -1; delCol <= 1; delCol++) {
+                    if(delRow == 0 && delCol == 0) continue;
 
                     int newRow = row + delRow;
                     int newCol = col + delCol;
 
                     if(isValid(newRow, newCol, n) &&
-                       !vis[newRow][newCol] &&
-                       grid[newRow][newCol] == 0) {
+                       grid[newRow][newCol] == 0 &&
+                       !vis[newRow][newCol]) {
 
                         vis[newRow][newCol] = true;
-                        pq.push({count + 1, {newRow, newCol}});
+                        q.push({cnt + 1, {newRow, newCol}});
                     }
                 }
             }
