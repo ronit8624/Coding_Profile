@@ -1,8 +1,8 @@
 class Solution {
 public:
-    int getNextInd(vector<vector<int>>& arr, int low, int currJobEnd, int n) {
-        int high = n - 1;
-        int ans = n;
+    int getNextInd(int low, int currJobEnd, vector<vector<int>>& arr) {
+        int high = arr.size() - 1;
+        int ans = 1e9;
 
         while(low <= high) {
             int mid = low + (high - low) / 2;
@@ -18,30 +18,21 @@ public:
 
         return ans;
     }
+    int f(int ind, vector<vector<int>>& arr, vector<int>& dp) {
+        if(ind >= arr.size()) return 0;
+        if(dp[ind] != -1) return dp[ind];
 
-    int f(int i, vector<vector<int>>& arr, int n, vector<int>& dp) {
-        if(i >= n) {
-            return 0;
-        }
+        int next = getNextInd(ind + 1, arr[ind][1], arr);
+        int notTake = f(ind + 1, arr, dp);
+        int take = arr[ind][2] + f(next, arr, dp);
 
-        if(dp[i] != -1) {
-            return dp[i];
-        }
-
-        int next = getNextInd(arr, i + 1, arr[i][1], n);
-
-        int take = arr[i][2] + f(next, arr, n, dp);
-        int notTake = f(i + 1, arr, n, dp);
-
-        return dp[i] = max(take, notTake);
+        return dp[ind] = max(notTake, take);
     }
-
     int jobScheduling(vector<int>& startTime, vector<int>& endTime, vector<int>& profit) {
         int n = startTime.size();
+        vector<vector<int>> arr(n, vector<int>(3, 0));
 
-        vector<vector<int>> arr(n, vector<int>(3));
-
-        for(int i = 0; i < n; i++) {
+        for(int i=0;i<n;i++) {
             arr[i][0] = startTime[i];
             arr[i][1] = endTime[i];
             arr[i][2] = profit[i];
@@ -51,6 +42,6 @@ public:
 
         vector<int> dp(n, -1);
 
-        return f(0, arr, n, dp);
+        return f(0, arr, dp);
     }
 };
