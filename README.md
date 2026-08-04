@@ -631,4 +631,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ronit8624/Coding_Profile/tree/master/0005-longest-palindromic-substring) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1092-shortest-common-supersequence](https://github.com/ronit8624/Coding_Profile/tree/master/1092-shortest-common-supersequence) |
 <!---LeetCode Topics End-->
