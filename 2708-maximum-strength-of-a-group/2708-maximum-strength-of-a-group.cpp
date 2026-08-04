@@ -2,39 +2,43 @@ class Solution {
 public:
     long long maxStrength(vector<int>& nums) {
         int n = nums.size();
-
-        if(n == 1) return nums[0];
-
-        long long prod = 1LL;
-        int positives = 0;
-        int negatives = 0;
+        long long prod = 1;
+        vector<int> negatives;
         int zeros = 0;
-
-        int maxNeg = INT_MIN;
+        bool taken = false;
 
         for(int i = 0; i < n; i++) {
             if(nums[i] > 0) {
-                positives++;
                 prod *= nums[i];
+                taken = true;
             }
             else if(nums[i] < 0) {
-                negatives++;
-                prod *= nums[i];
-                maxNeg = max(maxNeg, nums[i]);
+                negatives.push_back(nums[i]);
             }
             else {
                 zeros++;
             }
         }
 
-        if(positives == 0 && negatives == 0)
-            return 0;
+        sort(negatives.begin(), negatives.end());
+        int len = negatives.size();
 
-        if(negatives % 2 != 0) {
-            prod /= maxNeg;
+        if(len % 2 == 0) {
+            for(int i = 0; i < len; i++) {
+                prod *= negatives[i];
+                taken = true;
+            }
+        }
+        else {
+            for(int i = 0; i < len - 1; i++) {
+                prod *= negatives[i];
+                taken = true;
+            }
+        }
 
-            if(negatives == 1 && positives == 0)
-                return (zeros > 0) ? 0 : maxNeg;
+        if(!taken) {
+            if(zeros > 0) return 0;
+            return *max_element(nums.begin(), nums.end());
         }
 
         return prod;
