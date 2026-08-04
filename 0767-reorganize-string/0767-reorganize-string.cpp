@@ -1,42 +1,47 @@
 class Solution {
 public:
     string reorganizeString(string s) {
-        string ans;
-        int n = s.size();
         vector<int> freq(26, 0);
 
-        for(int i=0;i<n;i++) {
-            freq[s[i] - 'a']++;
+        for(char c : s)
+            freq[c - 'a']++;
+
+        priority_queue<pair<int,char>> pq;
+
+        for(int i = 0; i < 26; i++) {
+            if(freq[i] > 0)
+                pq.push({freq[i], char(i + 'a')});
         }
 
-        priority_queue<pair<int, char>> pq;
-
-        for(int i=0;i<26;i++) {
-            if(freq[i] != 0) {
-                pq.push({freq[i], i + 'a'});
-            }
-        }
+        string ans;
 
         while(pq.size() >= 2) {
-            auto first = pq.top();
+            auto [fre1, ch1] = pq.top();
             pq.pop();
 
-            auto second = pq.top();
+            auto [fre2, ch2] = pq.top();
             pq.pop();
 
-            ans += first.second;
-            ans += second.second;
+            ans += ch1;
+            ans += ch2;
 
-            first.first--;
-            second.first--;
+            fre1--;
+            fre2--;
 
-            if(first.first > 0) pq.push(first);
-            if(second.first > 0) pq.push(second);
+            if(fre1 > 0)
+                pq.push({fre1, ch1});
+
+            if(fre2 > 0)
+                pq.push({fre2, ch2});
         }
 
         if(!pq.empty()) {
-            if(pq.top().first > 1) return "";
-            ans += pq.top().second;
+            auto [fre, ch] = pq.top();
+
+            if(fre > 1)
+                return "";
+
+            ans += ch;
         }
 
         return ans;
