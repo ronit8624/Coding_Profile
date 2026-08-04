@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/ronit8624/Coding_Profile/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ronit8624/Coding_Profile/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ronit8624/Coding_Profile/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0132-palindrome-partitioning-ii](https://github.com/ronit8624/Coding_Profile/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/ronit8624/Coding_Profile/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ronit8624/Coding_Profile/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/ronit8624/Coding_Profile/tree/master/0300-longest-increasing-subsequence) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/ronit8624/Coding_Profile/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ronit8624/Coding_Profile/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ronit8624/Coding_Profile/tree/master/0125-valid-palindrome) |
+| [0132-palindrome-partitioning-ii](https://github.com/ronit8624/Coding_Profile/tree/master/0132-palindrome-partitioning-ii) |
 | [0227-basic-calculator-ii](https://github.com/ronit8624/Coding_Profile/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/ronit8624/Coding_Profile/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/ronit8624/Coding_Profile/tree/master/0392-is-subsequence) |
