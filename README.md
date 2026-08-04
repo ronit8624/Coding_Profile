@@ -627,4 +627,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ronit8624/Coding_Profile/tree/master/0572-subtree-of-another-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ronit8624/Coding_Profile/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
