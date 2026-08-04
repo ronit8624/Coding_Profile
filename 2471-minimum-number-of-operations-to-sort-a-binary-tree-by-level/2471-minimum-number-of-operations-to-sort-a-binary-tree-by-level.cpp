@@ -10,43 +10,41 @@
  * };
  */
 class Solution {
-private:
+public:
     int getSwaps(vector<int>& original) {
+        int n = original.size();
         vector<int> target = original;
         sort(target.begin(), target.end());
-        int n = original.size();
+        unordered_map<int, int> indMap;
         int swaps = 0;
 
-        unordered_map<int, int> pos;
-        for(int ind = 0; ind < n; ind ++) {
-            pos[original[ind]] = ind;
+        for(int i=0;i<n;i++) {
+            indMap[original[i]] = i;
         }
 
-        for(int ind = 0; ind < n; ind ++) {
-            if(original[ind] != target[ind]) {
+        for(int i=0;i<n;i++) {
+            if(original[i] != target[i]) {
                 swaps++;
 
-                int curPos = pos[target[ind]];
-                pos[original[ind]] = curPos;
-                swap(original[curPos], original[ind]);
+                int curPos = indMap[target[i]];
+                indMap[original[i]] = curPos;
+                swap(original[curPos], original[i]);
             }
         }
 
         return swaps;
     }
-public:
     int minimumOperations(TreeNode* root) {
+        int ans = 0;
         queue<TreeNode*> q;
         q.push(root);
-        int ans = 0;
 
         while(!q.empty()) {
             int size = q.size();
             vector<int> level;
 
-            for(int ind = 0; ind < size; ind ++) {
-                auto node = q.front();
-                q.pop();
+            for(int i=0;i<size;i++) {
+                auto node = q.front(); q.pop();
                 level.push_back(node->val);
 
                 if(node->left) q.push(node->left);
