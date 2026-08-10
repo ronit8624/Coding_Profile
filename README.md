@@ -638,4 +638,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/ronit8624/Coding_Profile/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/ronit8624/Coding_Profile/tree/master/1092-shortest-common-supersequence) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ronit8624/Coding_Profile/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ronit8624/Coding_Profile/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
