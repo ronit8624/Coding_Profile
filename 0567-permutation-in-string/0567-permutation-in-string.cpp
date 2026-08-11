@@ -1,35 +1,31 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
-        if (s1.size() > s2.size()) return false;
+        int n = s1.size();
+        int m = s2.size();
 
-        unordered_map<char, int> mp;
+        if(n > m) return false;
 
-        for (char c : s1) {
-            mp[c]++;
+        vector<int> s1_freq(26, 0);
+        vector<int> s2_freq(26, 0);
+
+        for(auto it : s1) {
+            s1_freq[it - 'a']++;
         }
 
-        int left = 0;
-        int count = s1.size();
+        int i=0, j=0;
 
-        for (int right = 0; right < s2.size(); right++) {
-            char ch = s2[right];
+        while(j < m) {
+            s2_freq[s2[j] - 'a']++;
 
-            int val = mp[ch];
-            if (val > 0) count--;
-            mp[ch] = val - 1;
-
-            if (count == 0) return true;
-
-            if (right - left + 1 == s1.size()) {
-                char leftChar = s2[left];
-
-                int leftVal = mp[leftChar];
-                if (leftVal >= 0) count++;
-                mp[leftChar] = leftVal + 1;
-
-                left++;
+            if(j - i + 1 > n) {
+                s2_freq[s2[i] - 'a']--;
+                i++;
             }
+
+            if(s1_freq == s2_freq) return true;
+
+            j++;
         }
 
         return false;
