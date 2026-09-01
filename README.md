@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ronit8624/Coding_Profile/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/ronit8624/Coding_Profile/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ronit8624/Coding_Profile/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ronit8624/Coding_Profile/tree/master/0070-climbing-stairs) |
