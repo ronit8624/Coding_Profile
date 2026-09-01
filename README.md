@@ -677,4 +677,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/ronit8624/Coding_Profile/tree/master/0176-second-highest-salary) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ronit8624/Coding_Profile/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
