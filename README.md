@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ronit8624/Coding_Profile/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ronit8624/Coding_Profile/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ronit8624/Coding_Profile/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/ronit8624/Coding_Profile/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ronit8624/Coding_Profile/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/ronit8624/Coding_Profile/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/ronit8624/Coding_Profile/tree/master/0451-sort-characters-by-frequency) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ronit8624/Coding_Profile/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0133-clone-graph](https://github.com/ronit8624/Coding_Profile/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/ronit8624/Coding_Profile/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/ronit8624/Coding_Profile/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ronit8624/Coding_Profile/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/ronit8624/Coding_Profile/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ronit8624/Coding_Profile/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ronit8624/Coding_Profile/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/ronit8624/Coding_Profile/tree/master/0132-palindrome-partitioning-ii) |
 | [0227-basic-calculator-ii](https://github.com/ronit8624/Coding_Profile/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/ronit8624/Coding_Profile/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/ronit8624/Coding_Profile/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/ronit8624/Coding_Profile/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/ronit8624/Coding_Profile/tree/master/0394-decode-string) |
