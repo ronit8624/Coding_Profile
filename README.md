@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ronit8624/Coding_Profile/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ronit8624/Coding_Profile/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2708-maximum-strength-of-a-group](https://github.com/ronit8624/Coding_Profile/tree/master/2708-maximum-strength-of-a-group) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/ronit8624/Coding_Profile/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/ronit8624/Coding_Profile/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/ronit8624/Coding_Profile/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 ## Two Pointers
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ronit8624/Coding_Profile/tree/master/0078-subsets) |
 | [0784-letter-case-permutation](https://github.com/ronit8624/Coding_Profile/tree/master/0784-letter-case-permutation) |
 | [2708-maximum-strength-of-a-group](https://github.com/ronit8624/Coding_Profile/tree/master/2708-maximum-strength-of-a-group) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/ronit8624/Coding_Profile/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Enumeration
 |  |
 | ------- |
