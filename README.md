@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ronit8624/Coding_Profile/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ronit8624/Coding_Profile/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ronit8624/Coding_Profile/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ronit8624/Coding_Profile/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ronit8624/Coding_Profile/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ronit8624/Coding_Profile/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ronit8624/Coding_Profile/tree/master/0075-sort-colors) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ronit8624/Coding_Profile/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ronit8624/Coding_Profile/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ronit8624/Coding_Profile/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ronit8624/Coding_Profile/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/ronit8624/Coding_Profile/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/ronit8624/Coding_Profile/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ronit8624/Coding_Profile/tree/master/0091-decode-ways) |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ronit8624/Coding_Profile/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/ronit8624/Coding_Profile/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -708,4 +711,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ronit8624/Coding_Profile/tree/master/0141-linked-list-cycle) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ronit8624/Coding_Profile/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ronit8624/Coding_Profile/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ronit8624/Coding_Profile/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
