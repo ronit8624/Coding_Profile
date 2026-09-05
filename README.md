@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ronit8624/Coding_Profile/tree/master/0877-stone-game) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/ronit8624/Coding_Profile/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/ronit8624/Coding_Profile/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ronit8624/Coding_Profile/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Memoization
 |  |
 | ------- |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2708-maximum-strength-of-a-group](https://github.com/ronit8624/Coding_Profile/tree/master/2708-maximum-strength-of-a-group) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ronit8624/Coding_Profile/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Game Theory
 |  |
 | ------- |
