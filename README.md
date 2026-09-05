@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ronit8624/Coding_Profile/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ronit8624/Coding_Profile/tree/master/0347-top-k-frequent-elements) |
 | [0413-arithmetic-slices](https://github.com/ronit8624/Coding_Profile/tree/master/0413-arithmetic-slices) |
+| [0414-third-maximum-number](https://github.com/ronit8624/Coding_Profile/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/ronit8624/Coding_Profile/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ronit8624/Coding_Profile/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/ronit8624/Coding_Profile/tree/master/0485-max-consecutive-ones) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ronit8624/Coding_Profile/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ronit8624/Coding_Profile/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ronit8624/Coding_Profile/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/ronit8624/Coding_Profile/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/ronit8624/Coding_Profile/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/ronit8624/Coding_Profile/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/ronit8624/Coding_Profile/tree/master/0621-task-scheduler) |
