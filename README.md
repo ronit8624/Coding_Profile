@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ronit8624/Coding_Profile/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2708-maximum-strength-of-a-group](https://github.com/ronit8624/Coding_Profile/tree/master/2708-maximum-strength-of-a-group) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/ronit8624/Coding_Profile/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/ronit8624/Coding_Profile/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/ronit8624/Coding_Profile/tree/master/1338-reduce-array-size-to-the-half) |
 | [1400-construct-k-palindrome-strings](https://github.com/ronit8624/Coding_Profile/tree/master/1400-construct-k-palindrome-strings) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ronit8624/Coding_Profile/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/ronit8624/Coding_Profile/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 ## Math
 |  |
 | ------- |
