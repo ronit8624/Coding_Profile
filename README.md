@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ronit8624/Coding_Profile/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ronit8624/Coding_Profile/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ronit8624/Coding_Profile/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/ronit8624/Coding_Profile/tree/master/0740-delete-and-earn) |
 | [0764-largest-plus-sign](https://github.com/ronit8624/Coding_Profile/tree/master/0764-largest-plus-sign) |
 | [0875-koko-eating-bananas](https://github.com/ronit8624/Coding_Profile/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ronit8624/Coding_Profile/tree/master/0877-stone-game) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/ronit8624/Coding_Profile/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/ronit8624/Coding_Profile/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ronit8624/Coding_Profile/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0740-delete-and-earn](https://github.com/ronit8624/Coding_Profile/tree/master/0740-delete-and-earn) |
 | [0764-largest-plus-sign](https://github.com/ronit8624/Coding_Profile/tree/master/0764-largest-plus-sign) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ronit8624/Coding_Profile/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/ronit8624/Coding_Profile/tree/master/0877-stone-game) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ronit8624/Coding_Profile/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/ronit8624/Coding_Profile/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/ronit8624/Coding_Profile/tree/master/0721-accounts-merge) |
+| [0740-delete-and-earn](https://github.com/ronit8624/Coding_Profile/tree/master/0740-delete-and-earn) |
 | [0763-partition-labels](https://github.com/ronit8624/Coding_Profile/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ronit8624/Coding_Profile/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/ronit8624/Coding_Profile/tree/master/0904-fruit-into-baskets) |
