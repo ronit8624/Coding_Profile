@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ronit8624/Coding_Profile/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1834-single-threaded-cpu](https://github.com/ronit8624/Coding_Profile/tree/master/1834-single-threaded-cpu) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ronit8624/Coding_Profile/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ronit8624/Coding_Profile/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/ronit8624/Coding_Profile/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ronit8624/Coding_Profile/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ronit8624/Coding_Profile/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ronit8624/Coding_Profile/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1710-maximum-units-on-a-truck](https://github.com/ronit8624/Coding_Profile/tree/master/1710-maximum-units-on-a-truck) |
 | [1834-single-threaded-cpu](https://github.com/ronit8624/Coding_Profile/tree/master/1834-single-threaded-cpu) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ronit8624/Coding_Profile/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/ronit8624/Coding_Profile/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ronit8624/Coding_Profile/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2708-maximum-strength-of-a-group](https://github.com/ronit8624/Coding_Profile/tree/master/2708-maximum-strength-of-a-group) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/ronit8624/Coding_Profile/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1338-reduce-array-size-to-the-half](https://github.com/ronit8624/Coding_Profile/tree/master/1338-reduce-array-size-to-the-half) |
 | [1400-construct-k-palindrome-strings](https://github.com/ronit8624/Coding_Profile/tree/master/1400-construct-k-palindrome-strings) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ronit8624/Coding_Profile/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ronit8624/Coding_Profile/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3146-permutation-difference-between-two-strings](https://github.com/ronit8624/Coding_Profile/tree/master/3146-permutation-difference-between-two-strings) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/ronit8624/Coding_Profile/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
@@ -651,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/ronit8624/Coding_Profile/tree/master/1631-path-with-minimum-effort) |
 | [1696-jump-game-vi](https://github.com/ronit8624/Coding_Profile/tree/master/1696-jump-game-vi) |
 | [1834-single-threaded-cpu](https://github.com/ronit8624/Coding_Profile/tree/master/1834-single-threaded-cpu) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ronit8624/Coding_Profile/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Bucket Sort
 |  |
 | ------- |
