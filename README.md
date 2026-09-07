@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ronit8624/Coding_Profile/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ronit8624/Coding_Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ronit8624/Coding_Profile/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ronit8624/Coding_Profile/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ronit8624/Coding_Profile/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/ronit8624/Coding_Profile/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/ronit8624/Coding_Profile/tree/master/0567-permutation-in-string) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/ronit8624/Coding_Profile/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/ronit8624/Coding_Profile/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ronit8624/Coding_Profile/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/ronit8624/Coding_Profile/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/ronit8624/Coding_Profile/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ronit8624/Coding_Profile/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/ronit8624/Coding_Profile/tree/master/0409-longest-palindrome) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ronit8624/Coding_Profile/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ronit8624/Coding_Profile/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ronit8624/Coding_Profile/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ronit8624/Coding_Profile/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/ronit8624/Coding_Profile/tree/master/0227-basic-calculator-ii) |
 | [0343-integer-break](https://github.com/ronit8624/Coding_Profile/tree/master/0343-integer-break) |
 | [0441-arranging-coins](https://github.com/ronit8624/Coding_Profile/tree/master/0441-arranging-coins) |
@@ -732,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ronit8624/Coding_Profile/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/ronit8624/Coding_Profile/tree/master/0202-happy-number) |
 ## Z Algorithm
 |  |
 | ------- |
