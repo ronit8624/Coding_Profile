@@ -726,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/ronit8624/Coding_Profile/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ronit8624/Coding_Profile/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0184-department-highest-salary](https://github.com/ronit8624/Coding_Profile/tree/master/0184-department-highest-salary) |
 | [1068-product-sales-analysis-i](https://github.com/ronit8624/Coding_Profile/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ronit8624/Coding_Profile/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Bracket Sequences
