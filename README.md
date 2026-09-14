@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/ronit8624/Coding_Profile/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/ronit8624/Coding_Profile/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/ronit8624/Coding_Profile/tree/master/2960-count-tested-devices-after-test-operations) |
+| [2965-find-missing-and-repeated-values](https://github.com/ronit8624/Coding_Profile/tree/master/2965-find-missing-and-repeated-values) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/ronit8624/Coding_Profile/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3028-ant-on-the-boundary](https://github.com/ronit8624/Coding_Profile/tree/master/3028-ant-on-the-boundary) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/ronit8624/Coding_Profile/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-construct-k-palindrome-strings](https://github.com/ronit8624/Coding_Profile/tree/master/1400-construct-k-palindrome-strings) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ronit8624/Coding_Profile/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ronit8624/Coding_Profile/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/ronit8624/Coding_Profile/tree/master/2965-find-missing-and-repeated-values) |
 | [3146-permutation-difference-between-two-strings](https://github.com/ronit8624/Coding_Profile/tree/master/3146-permutation-difference-between-two-strings) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/ronit8624/Coding_Profile/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 ## Math
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ronit8624/Coding_Profile/tree/master/0877-stone-game) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/ronit8624/Coding_Profile/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/ronit8624/Coding_Profile/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/ronit8624/Coding_Profile/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ronit8624/Coding_Profile/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Memoization
 |  |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/ronit8624/Coding_Profile/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ronit8624/Coding_Profile/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/ronit8624/Coding_Profile/tree/master/1631-path-with-minimum-effort) |
+| [2965-find-missing-and-repeated-values](https://github.com/ronit8624/Coding_Profile/tree/master/2965-find-missing-and-repeated-values) |
 ## Queue
 |  |
 | ------- |
