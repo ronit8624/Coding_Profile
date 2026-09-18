@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ronit8624/Coding_Profile/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/ronit8624/Coding_Profile/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/ronit8624/Coding_Profile/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/ronit8624/Coding_Profile/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/ronit8624/Coding_Profile/tree/master/0413-arithmetic-slices) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ronit8624/Coding_Profile/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/ronit8624/Coding_Profile/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ronit8624/Coding_Profile/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/ronit8624/Coding_Profile/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/ronit8624/Coding_Profile/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ronit8624/Coding_Profile/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/ronit8624/Coding_Profile/tree/master/0141-linked-list-cycle) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ronit8624/Coding_Profile/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ronit8624/Coding_Profile/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/ronit8624/Coding_Profile/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/ronit8624/Coding_Profile/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/ronit8624/Coding_Profile/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/ronit8624/Coding_Profile/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ronit8624/Coding_Profile/tree/master/0115-distinct-subsequences) |
