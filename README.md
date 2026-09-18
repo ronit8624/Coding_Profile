@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ronit8624/Coding_Profile/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/ronit8624/Coding_Profile/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ronit8624/Coding_Profile/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/ronit8624/Coding_Profile/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/ronit8624/Coding_Profile/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ronit8624/Coding_Profile/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ronit8624/Coding_Profile/tree/master/0621-task-scheduler) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ronit8624/Coding_Profile/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ronit8624/Coding_Profile/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/ronit8624/Coding_Profile/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/ronit8624/Coding_Profile/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ronit8624/Coding_Profile/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ronit8624/Coding_Profile/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/ronit8624/Coding_Profile/tree/master/0724-find-pivot-index) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/ronit8624/Coding_Profile/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ronit8624/Coding_Profile/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/ronit8624/Coding_Profile/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/ronit8624/Coding_Profile/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ronit8624/Coding_Profile/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ronit8624/Coding_Profile/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/ronit8624/Coding_Profile/tree/master/0621-task-scheduler) |
