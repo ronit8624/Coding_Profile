@@ -762,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/ronit8624/Coding_Profile/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ronit8624/Coding_Profile/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/ronit8624/Coding_Profile/tree/master/1484-group-sold-products-by-the-date) |
+| [1661-average-time-of-process-per-machine](https://github.com/ronit8624/Coding_Profile/tree/master/1661-average-time-of-process-per-machine) |
 | [1873-calculate-special-bonus](https://github.com/ronit8624/Coding_Profile/tree/master/1873-calculate-special-bonus) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/ronit8624/Coding_Profile/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Bracket Sequences
