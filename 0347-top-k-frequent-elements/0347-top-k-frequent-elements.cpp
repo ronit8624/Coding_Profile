@@ -8,7 +8,7 @@ public:
             freq[nums[i]]++;
         }
 
-        priority_queue<pair<int, int>, 
+        priority_queue<pair<int, int>,
                         vector<pair<int, int>>,
                         greater<pair<int, int>>> pq;
 
@@ -21,6 +21,7 @@ public:
         }
 
         vector<int> ans;
+
         while(!pq.empty()) {
             ans.push_back(pq.top().second);
             pq.pop();
