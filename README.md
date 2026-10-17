@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ronit8624/Coding_Profile/tree/master/0877-stone-game) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/ronit8624/Coding_Profile/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/ronit8624/Coding_Profile/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ronit8624/Coding_Profile/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2965-find-missing-and-repeated-values](https://github.com/ronit8624/Coding_Profile/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ronit8624/Coding_Profile/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Memoization
@@ -797,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ronit8624/Coding_Profile/tree/master/0141-linked-list-cycle) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ronit8624/Coding_Profile/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -819,4 +821,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ronit8624/Coding_Profile/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ronit8624/Coding_Profile/tree/master/0229-majority-element-ii) |
+## Number Theory
+|  |
+| ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ronit8624/Coding_Profile/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
