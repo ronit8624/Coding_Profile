@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/ronit8624/Coding_Profile/tree/master/1834-single-threaded-cpu) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ronit8624/Coding_Profile/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ronit8624/Coding_Profile/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ronit8624/Coding_Profile/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/ronit8624/Coding_Profile/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ronit8624/Coding_Profile/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ronit8624/Coding_Profile/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/ronit8624/Coding_Profile/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/ronit8624/Coding_Profile/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/ronit8624/Coding_Profile/tree/master/0905-sort-array-by-parity) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ronit8624/Coding_Profile/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
 | ------- |
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/ronit8624/Coding_Profile/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/ronit8624/Coding_Profile/tree/master/0844-backspace-string-compare) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ronit8624/Coding_Profile/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ronit8624/Coding_Profile/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/ronit8624/Coding_Profile/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3028-ant-on-the-boundary](https://github.com/ronit8624/Coding_Profile/tree/master/3028-ant-on-the-boundary) |
