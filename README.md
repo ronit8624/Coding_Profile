@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/ronit8624/Coding_Profile/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/ronit8624/Coding_Profile/tree/master/0905-sort-array-by-parity) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ronit8624/Coding_Profile/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2396-strictly-palindromic-number](https://github.com/ronit8624/Coding_Profile/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ronit8624/Coding_Profile/tree/master/0877-stone-game) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/ronit8624/Coding_Profile/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/ronit8624/Coding_Profile/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2396-strictly-palindromic-number](https://github.com/ronit8624/Coding_Profile/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ronit8624/Coding_Profile/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2965-find-missing-and-repeated-values](https://github.com/ronit8624/Coding_Profile/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ronit8624/Coding_Profile/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -830,4 +832,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ronit8624/Coding_Profile/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/ronit8624/Coding_Profile/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
