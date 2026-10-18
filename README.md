@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ronit8624/Coding_Profile/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1338-reduce-array-size-to-the-half](https://github.com/ronit8624/Coding_Profile/tree/master/1338-reduce-array-size-to-the-half) |
 | [1400-construct-k-palindrome-strings](https://github.com/ronit8624/Coding_Profile/tree/master/1400-construct-k-palindrome-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ronit8624/Coding_Profile/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1710-maximum-units-on-a-truck](https://github.com/ronit8624/Coding_Profile/tree/master/1710-maximum-units-on-a-truck) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/ronit8624/Coding_Profile/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ronit8624/Coding_Profile/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ronit8624/Coding_Profile/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1400-construct-k-palindrome-strings](https://github.com/ronit8624/Coding_Profile/tree/master/1400-construct-k-palindrome-strings) |
 | [1544-make-the-string-great](https://github.com/ronit8624/Coding_Profile/tree/master/1544-make-the-string-great) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ronit8624/Coding_Profile/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ronit8624/Coding_Profile/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronit8624/Coding_Profile/tree/master/2785-sort-vowels-in-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/ronit8624/Coding_Profile/tree/master/3146-permutation-difference-between-two-strings) |
