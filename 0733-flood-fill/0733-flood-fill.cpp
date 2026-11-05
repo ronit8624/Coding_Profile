@@ -1,44 +1,45 @@
 class Solution {
 public:
-    vector<int> delRow = {-1, 0, 1, 0};
-    vector<int> delCol = {0, 1, 0, -1};
-
-    bool isValid(int row, int col, int n, int m) {
-        return row >= 0 && row < n && col >= 0 && col < m;
+    bool isValid(int i, int j, int n, int m) {
+        return i >= 0 && i < n && j >= 0 && j < m;
     }
 
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
+        
         int n = image.size();
         int m = image[0].size();
-
-        vector<vector<bool>> vis(n, vector<bool>(m, false));
-
+        
         int iniColor = image[sr][sc];
+        if(iniColor == color) return image;
 
         queue<pair<int, int>> q;
         q.push({sr, sc});
 
-        vis[sr][sc] = true;
         image[sr][sc] = color;
 
+        vector<int> delRow = {-1, 0, 1, 0};
+        vector<int> delCol = {0, 1, 0, -1};
+
         while(!q.empty()) {
-            auto cell = q.front();
-            q.pop();
+            int size = q.size();
 
-            int row = cell.first;
-            int col = cell.second;
+            for(int i=0;i<size;i++) {
+                auto cell = q.front();
+                q.pop();
 
-            for(int i = 0; i < 4; i++) {
-                int newRow = row + delRow[i];
-                int newCol = col + delCol[i];
+                int row = cell.first;
+                int col = cell.second;
 
-                if(isValid(newRow, newCol, n, m) &&
-                   !vis[newRow][newCol] &&
-                   image[newRow][newCol] == iniColor) {
+                for(int j=0;j<4;j++) {
+                    int nrow = row + delRow[j];
+                    int ncol = col + delCol[j];
 
-                    vis[newRow][newCol] = true;
-                    image[newRow][newCol] = color;
-                    q.push({newRow, newCol});
+                    if(isValid(nrow, ncol, n, m) &&
+                        image[nrow][ncol] == iniColor) {
+                        
+                        image[nrow][ncol] = color;
+                        q.push({nrow, ncol});
+                    }
                 }
             }
         }
