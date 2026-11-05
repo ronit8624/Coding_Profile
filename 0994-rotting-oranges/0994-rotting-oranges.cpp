@@ -1,9 +1,5 @@
 class Solution {
 public:
-
-    int delRow[4] = {-1, 0, 1, 0};
-    int delCol[4] = {0, 1, 0, -1};
-
     bool isValid(int i, int j, int n, int m) {
         return i >= 0 && i < n && j >= 0 && j < m;
     }
@@ -12,48 +8,45 @@ public:
         int n = grid.size();
         int m = grid[0].size();
 
-        int fresh = 0;
-        int time = 0;
-
         queue<pair<int, int>> q;
+        int fresh = 0;
 
         for(int i=0;i<n;i++) {
             for(int j=0;j<m;j++) {
-
-                if(grid[i][j] == 2) {
-                    q.push({i, j});
-                }
-
                 if(grid[i][j] == 1) {
                     fresh++;
+                }
+                else if(grid[i][j] == 2) {
+                    q.push({i, j});
                 }
             }
         }
 
-        while(!q.empty() && fresh > 0) {
+        int time = 0;
 
+        vector<int> delRow = {-1, 0, 1, 0};
+        vector<int> delCol = {0, 1, 0, -1};
+
+        while(!q.empty() && fresh > 0) {
             int size = q.size();
 
             for(int i=0;i<size;i++) {
-
                 auto cell = q.front();
+                q.pop();
 
                 int row = cell.first;
                 int col = cell.second;
 
-                q.pop();
+                for(int j=0;j<4;j++) {
+                    int nrow = row + delRow[j];
+                    int ncol = col + delCol[j];
 
-                for(int i=0;i<4;i++) {
-
-                    int nRow = row + delRow[i];
-                    int nCol = col + delCol[i];
-
-                    if(isValid(nRow, nCol, n, m) &&
-                        grid[nRow][nCol] == 1) {
+                    if(isValid(nrow, ncol, n, m) &&
+                        grid[nrow][ncol] == 1) {
                         
-                        grid[nRow][nCol] = 2;
+                        grid[nrow][ncol] = 2;
                         fresh--;
-                        q.push({nRow, nCol});
+                        q.push({nrow, ncol});
                     }
                 }
             }
@@ -61,7 +54,6 @@ public:
             time++;
         }
 
-        if(fresh == 0) return time;
-        return -1;
+        return fresh == 0 ? time : -1;
     }
 };
