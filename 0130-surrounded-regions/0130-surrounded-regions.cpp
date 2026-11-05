@@ -4,43 +4,45 @@ public:
     vector<int> delCol = {0, 1, 0, -1};
 
     bool isValid(int i, int j, int n, int m) {
-        return i >=0 && i < n && j >= 0 && j < m;
+        return i >= 0 && i < n && j >= 0 && j < m;
     }
 
-    void dfs(int row, int col, int n, int m, vector<vector<char>>& vis, 
-             vector<vector<char>>& mat) {
+    void dfs(int row, int col, vector<vector<char>>& board, 
+                vector<vector<int>>& vis, int n, int m) {
         
-        vis[row][col] = 'O';
+        vis[row][col] = true;
 
         for(int i=0;i<4;i++) {
-            int newRow = row + delRow[i];
-            int newCol = col + delCol[i];
+            int nrow = row + delRow[i];
+            int ncol = col + delCol[i];
 
-            if(isValid(newRow, newCol, n, m) &&
-               mat[newRow][newCol] == 'O' &&
-               vis[newRow][newCol] == 'X') {
-
-                dfs(newRow, newCol, n, m, vis, mat);
+            if(isValid(nrow, ncol, n, m) &&
+                !vis[nrow][ncol] &&
+                board[nrow][ncol] == 'O') {
+                
+                dfs(nrow, ncol, board, vis, n, m);
             }
         }
     }
 
     void solve(vector<vector<char>>& board) {
-        int n = board.size(), m = board[0].size();
-        vector<vector<char>> vis(n, vector<char>(m, 'X'));
+        int n = board.size();
+        int m = board[0].size();
 
-        for(int i = 0; i < n; i++) {
-            for(int j = 0; j < m; j++) {
+        vector<vector<int>> vis(n, vector<int>(m, false));
+
+        for(int i=0;i<n;i++) {
+            for(int j=0;j<m;j++) {
 
                 if(i == 0 || i == n-1) {
-                    if(board[i][j] == 'O' && vis[i][j] == 'X') {
-                        dfs(i, j, n, m, vis, board);
+                    if(board[i][j] == 'O') {
+                        dfs(i, j, board, vis, n, m);
                     }
                 }
 
                 if(j == 0 || j == m-1) {
-                    if(board[i][j] == 'O' && vis[i][j] == 'X') {
-                        dfs(i, j, n, m, vis, board);
+                    if(board[i][j] == 'O') {
+                        dfs(i, j, board, vis, n, m);
                     }
                 }
             }
@@ -48,10 +50,12 @@ public:
 
         for(int i=0;i<n;i++) {
             for(int j=0;j<m;j++) {
-                if(board[i][j] == 'O' && vis[i][j] == 'X') {
+                if(!vis[i][j] && board[i][j] == 'O') {
                     board[i][j] = 'X';
                 }
             }
         }
+
+        return;
     }
 };
