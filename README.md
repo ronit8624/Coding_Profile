@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/ronit8624/Coding_Profile/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/ronit8624/Coding_Profile/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/ronit8624/Coding_Profile/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ronit8624/Coding_Profile/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ronit8624/Coding_Profile/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1338-reduce-array-size-to-the-half](https://github.com/ronit8624/Coding_Profile/tree/master/1338-reduce-array-size-to-the-half) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/ronit8624/Coding_Profile/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ronit8624/Coding_Profile/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ronit8624/Coding_Profile/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/ronit8624/Coding_Profile/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ronit8624/Coding_Profile/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ronit8624/Coding_Profile/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/ronit8624/Coding_Profile/tree/master/1631-path-with-minimum-effort) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ronit8624/Coding_Profile/tree/master/1870-minimum-speed-to-arrive-on-time) |
