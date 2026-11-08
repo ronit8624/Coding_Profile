@@ -828,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ronit8624/Coding_Profile/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/ronit8624/Coding_Profile/tree/master/0141-linked-list-cycle) |
+| [0328-odd-even-linked-list](https://github.com/ronit8624/Coding_Profile/tree/master/0328-odd-even-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ronit8624/Coding_Profile/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
