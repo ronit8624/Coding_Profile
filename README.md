@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ronit8624/Coding_Profile/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/ronit8624/Coding_Profile/tree/master/2965-find-missing-and-repeated-values) |
 | [3146-permutation-difference-between-two-strings](https://github.com/ronit8624/Coding_Profile/tree/master/3146-permutation-difference-between-two-strings) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/ronit8624/Coding_Profile/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/ronit8624/Coding_Profile/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 ## Math
 |  |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ronit8624/Coding_Profile/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2785-sort-vowels-in-a-string](https://github.com/ronit8624/Coding_Profile/tree/master/2785-sort-vowels-in-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/ronit8624/Coding_Profile/tree/master/3146-permutation-difference-between-two-strings) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/ronit8624/Coding_Profile/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Combinatorics
 |  |
 | ------- |
