@@ -16,6 +16,8 @@ public:
 
         cur.pop_back();
 
+        // if i am deciding not to take any element so i should not take, the element throughout, means if the element occurres more than one time and i have decided to not take it , i shoukd not take the same element afterwards also because if i take that will generate the same sequence eventually.
+        
         for(int j=i+1;j<n;j++) {
             if(arr[j] != arr[i]) {
                 f(arr, sum, n, j, cur, ans);
