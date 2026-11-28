@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ronit8624/Coding_Profile/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ronit8624/Coding_Profile/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/ronit8624/Coding_Profile/tree/master/1631-path-with-minimum-effort) |
+| [1646-kth-missing-positive-number](https://github.com/ronit8624/Coding_Profile/tree/master/1646-kth-missing-positive-number) |
 | [1696-jump-game-vi](https://github.com/ronit8624/Coding_Profile/tree/master/1696-jump-game-vi) |
 | [1710-maximum-units-on-a-truck](https://github.com/ronit8624/Coding_Profile/tree/master/1710-maximum-units-on-a-truck) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ronit8624/Coding_Profile/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ronit8624/Coding_Profile/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ronit8624/Coding_Profile/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/ronit8624/Coding_Profile/tree/master/1631-path-with-minimum-effort) |
+| [1646-kth-missing-positive-number](https://github.com/ronit8624/Coding_Profile/tree/master/1646-kth-missing-positive-number) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ronit8624/Coding_Profile/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1901-find-a-peak-element-ii](https://github.com/ronit8624/Coding_Profile/tree/master/1901-find-a-peak-element-ii) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ronit8624/Coding_Profile/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -861,15 +863,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ronit8624/Coding_Profile/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## Knuth–Morris–Pratt Algorithm
+## KnuthâMorrisâPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ronit8624/Coding_Profile/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## Boyer–Moore String-Search Algorithm
+## BoyerâMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ronit8624/Coding_Profile/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## Boyer–Moore Majority Vote Algorithm
+## BoyerâMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ronit8624/Coding_Profile/tree/master/0169-majority-element) |
